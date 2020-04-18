@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4185DD59-7AD1-4374-B560-5670631E4E8D",
+  "do_objectID": "070AE800-489E-4710-A36F-182D5F62B39A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 44,
-    "width": 203,
+    "height": 812,
+    "width": 375,
     "x": 0,
     "y": 0
   },
@@ -25,17 +25,12 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Symbols/Buttons/Final/Outlined/blue-large",
-  "nameIsFixed": true,
+  "name": "iPhone X/iPhone X Frame",
+  "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "overrideName": "555E7893-2A95-4E66-9761-C1F29AF6E947/72040634-D1E6-4A76-BD41-4CDDF48183F8_stringValue",
-      "value": "click here"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -76,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "0DABCA05-A858-465F-B556-5CDF174A4AB5",
+    "do_objectID": "139DD99B-DC78-4324-8934-E04E0F142A23",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -88,6 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "2B4036B8-ECF1-4CEE-AD7F-E6FD4C6612F7",
+  "symbolID": "AEA6D3E6-C1E6-4911-99DA-C3FF7DA8286A",
   "verticalSpacing": 0
 }
