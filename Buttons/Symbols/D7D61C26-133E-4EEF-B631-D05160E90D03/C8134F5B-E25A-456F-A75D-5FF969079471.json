@@ -2,7 +2,7 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C25F0685-7F6A-4461-B63B-E2F66BCD7B28",
+  "do_objectID": "C8134F5B-E25A-456F-A75D-5FF969079471",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -31,7 +31,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle Copy 6",
+  "name": "Rectangle Copy 5",
   "nameIsFixed": false,
   "needsConvertionToNewRoundCorners": false,
   "pointRadiusBehaviour": 1,
@@ -165,7 +165,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "95324A70-2262-41C9-A8C8-13C6A6D587EC",
+    "do_objectID": "01AE6D32-A442-4CCF-BADD-D187738D283C",
     "endMarkerType": 0,
     "fills": [
       {

@@ -9,9 +9,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 191,
+  "changeIdentifier": 61,
   "clippingMaskMode": 0,
-  "do_objectID": "470D5588-463B-4E9B-8015-AB0E630FD580",
+  "do_objectID": "D7D61C26-133E-4EEF-B631-D05160E90D03",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -27,7 +27,7 @@
     "height": 44,
     "width": 141,
     "x": 254,
-    "y": 1008
+    "y": 1116
   },
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
@@ -54,29 +54,24 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "00D35DED-378F-4869-A420-7C1B7CE5CDE6"
+      "class": "rectangle",
+      "id": "C8134F5B-E25A-456F-A75D-5FF969079471"
     },
     {
-      "class": "symbolInstance",
-      "id": "47E97819-E76D-4AC9-B89F-4064D84F0C9A"
+      "class": "text",
+      "id": "B5EF56E7-11D7-4042-9705-A677FA34602F"
     }
   ],
-  "name": "Symbols/Buttons/Final/Base/blue-medium",
-  "nameIsFixed": true,
+  "name": "Symbols/Buttons/Final/Outlined/purple-medium",
+  "nameIsFixed": false,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "00D35DED-378F-4869-A420-7C1B7CE5CDE6_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "47E97819-E76D-4AC9-B89F-4064D84F0C9A_symbolID"
+      "overrideName": "B5EF56E7-11D7-4042-9705-A677FA34602F_stringValue"
     }
   ],
   "presetDictionary": {
@@ -120,7 +115,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "C134596E-C5F5-44FB-BABE-618B724A433C",
+    "do_objectID": "23E89062-C912-4E5B-901C-11EB21B15A82",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -132,7 +127,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "411A4DD3-DE8C-4EF4-B898-88C877F4D8C8",
+  "symbolID": "668D53AC-CA1A-46A8-B18F-7BD24512F20F",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
