@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D444B3ED-ADFA-4D78-B03A-73E843F6E249",
+  "do_objectID": "FB982E57-2CA4-409C-ACB3-D9048676F7C0",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,32 +15,45 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 44,
-    "width": 141,
-    "x": 0,
-    "y": 0
+    "height": 186,
+    "width": 101,
+    "x": 162,
+    "y": 98
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "Symbols/Buttons/Final/Base/blue-small",
-  "nameIsFixed": true,
-  "overrideValues": [
+  "layerListExpandedType": 1,
+  "layers": [
     {
-      "_class": "overrideValue",
-      "overrideName": "00D35DED-378F-4869-A420-7C1B7CE5CDE6_symbolID",
-      "value": "86A378A8-7F8E-41A0-8C96-06FE96BAF99A"
+      "class": "rectangle",
+      "id": "91AD311B-3273-40D7-B683-78C604D3573E"
+    },
+    {
+      "class": "rectangle",
+      "id": "CC9294BE-3831-4E5B-8AE0-63D3AF72D2D6"
+    },
+    {
+      "class": "rectangle",
+      "id": "88EEF00A-5D11-49B8-929E-77D9A81B0B27"
+    },
+    {
+      "class": "rectangle",
+      "id": "0B432600-7F38-4CFB-8F7F-F3257A4F0533"
     }
   ],
+  "name": "Primary Colors",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -76,7 +89,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "3FEC3EFE-9931-40A5-9FEC-31E7A7DD6FB5",
+    "do_objectID": "6148061E-C356-4BF0-9C3F-B203375F215C",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -87,7 +100,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "411A4DD3-DE8C-4EF4-B898-88C877F4D8C8",
-  "verticalSpacing": 0
+  }
 }

@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D444B3ED-ADFA-4D78-B03A-73E843F6E249",
+  "do_objectID": "06D6117E-42B8-45A1-9908-EDD91F41AC15",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -18,7 +18,7 @@
     "height": 44,
     "width": 141,
     "x": 0,
-    "y": 0
+    "y": 72
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,13 +28,18 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Symbols/Buttons/Final/Base/blue-small",
+  "name": "Symbols/Buttons/Final/Outlined/green-small",
   "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "00D35DED-378F-4869-A420-7C1B7CE5CDE6_symbolID",
-      "value": "86A378A8-7F8E-41A0-8C96-06FE96BAF99A"
+      "overrideName": "0C805A29-5F23-4FF1-8044-2C17DE6E6879_symbolID",
+      "value": "5DCF8E88-D1E4-407A-B2AC-0775FF7F5E4F"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "555E7893-2A95-4E66-9761-C1F29AF6E947_symbolID",
+      "value": "D1CAB331-ED63-41E1-94C5-26E8B214294C"
     }
   ],
   "resizingConstraint": 63,
@@ -76,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "3FEC3EFE-9931-40A5-9FEC-31E7A7DD6FB5",
+    "do_objectID": "B1588289-0C2D-47E4-8640-03FF628F1B90",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -88,6 +93,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "411A4DD3-DE8C-4EF4-B898-88C877F4D8C8",
+  "symbolID": "2B4036B8-ECF1-4CEE-AD7F-E6FD4C6612F7",
   "verticalSpacing": 0
 }
