@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 61,
+  "changeIdentifier": 66,
   "clippingMaskMode": 0,
   "do_objectID": "D7D61C26-133E-4EEF-B631-D05160E90D03",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "minSize": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -54,15 +54,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
       "id": "C8134F5B-E25A-456F-A75D-5FF969079471"
-    },
-    {
-      "class": "text",
-      "id": "B5EF56E7-11D7-4042-9705-A677FA34602F"
     }
   ],
   "name": "Symbols/Buttons/Final/Outlined/purple-medium",

@@ -90,6 +90,10 @@
     {
       "class": "symbolMaster",
       "id": "D7D61C26-133E-4EEF-B631-D05160E90D03"
+    },
+    {
+      "class": "text",
+      "id": "B5EF56E7-11D7-4042-9705-A677FA34602F"
     }
   ],
   "name": "Symbols",
